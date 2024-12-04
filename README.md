@@ -2,8 +2,6 @@
 
 <h2 align="left">About me</h2>
 
-<h2 align="left">Lucas Antonio Evaldt</h2>
-
 ###
 
 <p align="left">Sou estudante de Engenharia de Software com grande interesse em desenvolvimento de sistemas e programação, estou começando minha carreira profissional na área. Estou sempre em busca de novos aprendizados e de desafios para aprimorar minhas habilidades em diversas tecnologias. No GitHub, compartilho meus projetos e contribuições para a comunidade de código aberto.</p>
