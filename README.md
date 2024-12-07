@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia de Software com grande interesse em desenvolvimento de sistemas e programação, estou começando minha carreira profissional na área. Estou sempre em busca de novos aprendizados e de desafios para aprimorar minhas habilidades em diversas tecnologias. No GitHub, compartilho meus projetos e contribuições para a comunidade de código aberto.</p>
+<p align="left">Sou estudante de Engenharia de Software com grande interesse em desenvolvimento de sistemas e programação. Estou sempre em busca de novos aprendizados e de desafios para aprimorar minhas habilidades em diversas tecnologias. No GitHub, compartilho meus projetos e contribuições para a comunidade de código aberto.</p>
 
 ###
 
-<p align="left">English:<br>I am a Software Engineering student with a strong interest in system development and programming, and I am just starting my professional career in the field. I am always looking for new learning opportunities and challenges to enhance my skills in various technologies. On GitHub, I share my projects and contributions to the open-source community.</p>
+<p align="left">I am a Software Engineering student with a strong interest in system development and programming. I am always looking for new learning opportunities and challenges to enhance my skills in various technologies. On GitHub, I share my projects and contributions to the open-source community.</p>
 
 ###
 
