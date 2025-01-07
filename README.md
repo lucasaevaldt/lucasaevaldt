@@ -45,16 +45,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucasantonioevaldt/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/lucasaevaldt/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
 <!--
 **lucasaevaldt/lucasaevaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
