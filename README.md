@@ -1,31 +1,31 @@
 ## Hi there 👋
-
 ### About Me
 
 I am a Software Engineering student passionate about system development and programming. I constantly seek new learning opportunities and challenges to enhance my skills across various technologies. On GitHub, I share my personal projects and contributions to the open-source community, aiming to make a positive impact and collaborate with other developers.
 
 Feel free to explore my repositories and let's connect!
 
+
+
 ### 📂 Meus Projetos
 
 Aqui estão alguns dos meus projetos mais recentes que compartilho no GitHub. Cada um possui uma breve descrição e um link para você visualizar o projeto:
 
-- **[Projeto 1 - Nome do Projeto](https://github.com/seunome/projeto1)**  
-  Descrição: Este projeto foi desenvolvido para [explicar o objetivo do projeto]. Ele utiliza [tecnologias usadas] e foi uma ótima oportunidade para aprender mais sobre [alguma habilidade importante].  
+Pessoal
+- **[Sounds effects](https://lucasaevaldt.github.io/sounds-effects/)**  
+  Descrição: Projeto em HTML e CSS baseado em um design encontrado no Figma, focado em testar habilidades de marcação semântica, estilização e responsividade. O layout foi adaptado para diferentes tamanhos de tela. É uma prática para aprimorar conhecimentos em desenvolvimento front-end.
 
-- **[Projeto 2 - Nome do Projeto](https://github.com/seunome/projeto2)**  
-  Descrição: Um projeto interessante focado em [descrição do projeto]. Ele foi construído com [tecnologias usadas] e [detalhes importantes].
 
-- **[Projeto 3 - Nome do Projeto](https://github.com/seunome/projeto3)**  
-  Descrição: Este é um projeto que [explique a funcionalidade]. A principal tecnologia utilizada foi [tecnologia usada], e o objetivo foi [objetivo do projeto].
+Testes para vagas
+- **[Cadastro de produtos](https://lucasaevaldt.github.io/cadastro-de-produtos/)**  
+  Descrição: Este desafio de processo seletivo permite o cadastro, edição e exclusão de produtos, armazenando dados no localStorage para persistência. A interface exibe produtos com nome, descrição, preço e status de disponibilidade.]. Ele utiliza HTML, CSS/SASS, Javascript
 
-- **[Projeto 4 - Nome do Projeto](https://github.com/seunome/projeto4)**  
-  Descrição: Um projeto simples, mas eficaz, focado em [detalhes do projeto]. Ele é útil para [explicar como o projeto pode ser útil].
 
-- **[Projeto 5 - Nome do Projeto](https://github.com/seunome/projeto5)**  
-  Descrição: Este projeto foca em [descrição do foco do projeto]. A aplicação foi feita com [tecnologias utilizadas] e tem como objetivo [objetivo].
+Cursos e eventos
+- **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
+  Descrição: Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 
-*Lembre-se de substituir os exemplos com seus próprios projetos.*
+
 
 ### 🚀 Technologies & Tools
 
@@ -40,12 +40,13 @@ I work with a variety of technologies and tools. Here are some of my favorites:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
+
 
 ### 📊 GitHub Stats
 
@@ -62,11 +63,6 @@ Check out my GitHub stats below to get a glimpse of my coding journey:
 - You can contact me via [email](mailto:lucas@example.com) (replace with your actual email) or find me on [LinkedIn](https://www.linkedin.com/in/your-profile) (replace with your actual LinkedIn profile).
 
 ---
-
-**Fun fact**: I am also passionate about learning new programming languages, and I love working on projects that challenge me to think creatively! 🎨
-
-
-
 <!--
 **lucasaevaldt/lucasaevaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
