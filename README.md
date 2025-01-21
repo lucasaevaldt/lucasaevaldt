@@ -4,13 +4,9 @@
 I am a Software Engineering student passionate about system development and programming. I constantly seek new learning opportunities and challenges to enhance my skills across various technologies. On GitHub, I share my personal projects and contributions to the open-source community, aiming to make a positive impact and collaborate with other developers.
 
 Feel free to explore my repositories and let's connect!
-
 <br>
-<hr>
 <br>
-
 <h2>📂Meus Projetos</h2>
-
 Cada um possui uma breve descrição e um link para você visualizar o projeto:
 
 Pessoal
@@ -27,9 +23,8 @@ Cursos e eventos
 - **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
   Descrição: Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 <br>
-<hr>
 <br>
-### 🚀 Technologies & Tools
+<h2>🚀 Technologies & Tools</h2>
 
 I work with a variety of technologies and tools. Here are some of my favorites:
 
@@ -49,9 +44,8 @@ I work with a variety of technologies and tools. Here are some of my favorites:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 <br>
-<hr>
 <br>
-### 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 Check out my GitHub stats below to get a glimpse of my coding journey:
 
@@ -62,7 +56,7 @@ Check out my GitHub stats below to get a glimpse of my coding journey:
 <br>
 <hr>
 <br>
-### 📫 Let's Connect!
+<h2>📫 Let's Connect!</h2>
 
 - Feel free to reach out to me for collaborations, project discussions, or any other opportunities!
 - You can contact me via [email](mailto:lucas@example.com) (replace with your actual email) or find me on [LinkedIn](https://www.linkedin.com/in/your-profile) (replace with your actual LinkedIn profile).
