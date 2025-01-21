@@ -1,13 +1,15 @@
-## Hi there 👋
-### About Me
+### Hi there 👋
+## About Me
 
 I am a Software Engineering student passionate about system development and programming. I constantly seek new learning opportunities and challenges to enhance my skills across various technologies. On GitHub, I share my personal projects and contributions to the open-source community, aiming to make a positive impact and collaborate with other developers.
 
 Feel free to explore my repositories and let's connect!
+
 <br>
 <hr>
 <br>
-### 📂 Meus Projetos
+
+<h2>📂Meus Projetos</h2>
 
 Cada um possui uma breve descrição e um link para você visualizar o projeto:
 
