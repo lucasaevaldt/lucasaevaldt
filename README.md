@@ -7,7 +7,7 @@ Feel free to explore my repositories and let's connect!
 <br>
 <br>
 <h2>📂Meus Projetos</h2>
-Cada um possui uma breve descrição e um link para você visualizar o projeto:
+<h4>Cada um possui uma breve descrição e um link para você visualizar o projeto:</h4>
 
 Pessoal
 - **[Sounds effects](https://lucasaevaldt.github.io/sounds-effects/)**  
