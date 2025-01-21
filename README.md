@@ -5,12 +5,10 @@ I am a Software Engineering student passionate about system development and prog
 
 Feel free to explore my repositories and let's connect!
 <br>
----
 <br>
 <br>
 ### 📂 Meus Projetos
-
-Aqui estão alguns dos meus projetos mais recentes que compartilho no GitHub. Cada um possui uma breve descrição e um link para você visualizar o projeto:
+Cada um possui uma breve descrição e um link para você visualizar o projeto:
 
 Pessoal
 - **[Sounds effects](https://lucasaevaldt.github.io/sounds-effects/)**  
@@ -26,7 +24,6 @@ Cursos e eventos
 - **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
   Descrição: Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 <br>
----
 <br>
 <br>
 ### 🚀 Technologies & Tools
@@ -49,7 +46,6 @@ I work with a variety of technologies and tools. Here are some of my favorites:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 <br>
----
 <br>
 <br>
 ### 📊 GitHub Stats
@@ -61,7 +57,6 @@ Check out my GitHub stats below to get a glimpse of my coding journey:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaevaldt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 <br>
----
 <br>
 <br>
 ### 📫 Let's Connect!
