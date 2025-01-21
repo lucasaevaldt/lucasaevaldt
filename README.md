@@ -11,17 +11,17 @@ Feel free to explore my repositories and let's connect!
 
 Pessoal
 - **[Sounds effects](https://lucasaevaldt.github.io/sounds-effects/)**  
-  Descrição: Projeto em HTML e CSS baseado em um design encontrado no Figma, focado em testar habilidades de marcação semântica, estilização e responsividade. O layout foi adaptado para diferentes tamanhos de tela. É uma prática para aprimorar conhecimentos em desenvolvimento front-end.
+  Projeto em HTML e CSS baseado em um design encontrado no Figma, focado em testar habilidades de marcação semântica, estilização e responsividade. O layout foi adaptado para diferentes tamanhos de tela. É uma prática para aprimorar conhecimentos em desenvolvimento front-end.
 
 
 Testes para vagas
 - **[Cadastro de produtos](https://lucasaevaldt.github.io/cadastro-de-produtos/)**  
-  Descrição: Este desafio de processo seletivo permite o cadastro, edição e exclusão de produtos, armazenando dados no localStorage para persistência. A interface exibe produtos com nome, descrição, preço e status de disponibilidade.]. Ele utiliza HTML, CSS/SASS, Javascript
+  Este desafio de processo seletivo permite o cadastro, edição e exclusão de produtos, armazenando dados no localStorage para persistência. A interface exibe produtos com nome, descrição, preço e status de disponibilidade. Utiliza HTML, CSS/SASS, Javascript
 
 
 Cursos e eventos
 - **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
-  Descrição: Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
+  Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 <br>
 <br>
 <h2>🚀 Technologies & Tools</h2>
@@ -54,14 +54,12 @@ Check out my GitHub stats below to get a glimpse of my coding journey:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaevaldt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 <br>
-<hr>
 <br>
 <h2>📫 Let's Connect!</h2>
 
 - Feel free to reach out to me for collaborations, project discussions, or any other opportunities!
 - You can contact me via [email](mailto:lucas@example.com) (replace with your actual email) or find me on [LinkedIn](https://www.linkedin.com/in/your-profile) (replace with your actual LinkedIn profile).
   <br>
----
 <!--
 **lucasaevaldt/lucasaevaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
