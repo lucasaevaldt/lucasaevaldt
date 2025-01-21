@@ -7,6 +7,8 @@ Feel free to explore my repositories and let's connect!
 
 
 
+
+
 ### 📂 Meus Projetos
 
 Aqui estão alguns dos meus projetos mais recentes que compartilho no GitHub. Cada um possui uma breve descrição e um link para você visualizar o projeto:
@@ -24,6 +26,9 @@ Testes para vagas
 Cursos e eventos
 - **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
   Descrição: Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
+
+
+
 
 
 
@@ -48,6 +53,9 @@ I work with a variety of technologies and tools. Here are some of my favorites:
 </div>
 
 
+
+
+
 ### 📊 GitHub Stats
 
 Check out my GitHub stats below to get a glimpse of my coding journey:
@@ -56,6 +64,9 @@ Check out my GitHub stats below to get a glimpse of my coding journey:
   <img src="https://github-readme-stats.vercel.app/api?username=lucasaevaldt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaevaldt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
+
+
+
 
 ### 📫 Let's Connect!
 
