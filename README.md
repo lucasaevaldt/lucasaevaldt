@@ -6,27 +6,7 @@ I am a Software Engineering student passionate about system development and prog
 Feel free to explore my repositories and let's connect!
 <br>
 <br>
-<h2>📂Meus Projetos</h2>
-<h4>Cada um possui uma breve descrição e um link para você visualizar o projeto:</h4>
-
-Pessoal
-- **[Sounds effects](https://lucasaevaldt.github.io/sounds-effects/)**  
-  Projeto em HTML e CSS baseado em um design encontrado no Figma, focado em testar habilidades de marcação semântica, estilização e responsividade. O layout foi adaptado para diferentes tamanhos de tela. É uma prática para aprimorar conhecimentos em desenvolvimento front-end.
-
-
-Testes para vagas
-- **[Cadastro de produtos](https://lucasaevaldt.github.io/cadastro-de-produtos/)**  
-  Este desafio de processo seletivo permite o cadastro, edição e exclusão de produtos, armazenando dados no localStorage para persistência. A interface exibe produtos com nome, descrição, preço e status de disponibilidade. Utiliza HTML, CSS/SASS, Javascript
-
-
-Cursos e eventos
-- **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
-  Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
-<br>
-<br>
 <h2>🚀 Technologies & Tools</h2>
-
-I work with a variety of technologies and tools. Here are some of my favorites:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -43,6 +23,24 @@ I work with a variety of technologies and tools. Here are some of my favorites:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
+<br>
+<br>
+<h2>📂Meus Projetos</h2>
+<h4>Cada um possui uma breve descrição e um link para você visualizar o projeto:</h4>
+
+Pessoal
+- **[Sounds effects](https://lucasaevaldt.github.io/sounds-effects/)**  
+  Projeto em HTML e CSS baseado em um design encontrado no Figma, focado em testar habilidades de marcação semântica, estilização e responsividade. O layout foi adaptado para diferentes tamanhos de tela. É uma prática para aprimorar conhecimentos em desenvolvimento front-end.
+
+
+Testes para vagas
+- **[Cadastro de produtos](https://lucasaevaldt.github.io/cadastro-de-produtos/)**  
+  Este desafio de processo seletivo permite o cadastro, edição e exclusão de produtos, armazenando dados no localStorage para persistência. A interface exibe produtos com nome, descrição, preço e status de disponibilidade. Utiliza HTML, CSS/SASS, Javascript
+
+
+Cursos e eventos
+- **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
+  Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 <br>
 <br>
 <h2>📊 GitHub Stats</h2>
