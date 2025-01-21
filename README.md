@@ -4,11 +4,10 @@
 I am a Software Engineering student passionate about system development and programming. I constantly seek new learning opportunities and challenges to enhance my skills across various technologies. On GitHub, I share my personal projects and contributions to the open-source community, aiming to make a positive impact and collaborate with other developers.
 
 Feel free to explore my repositories and let's connect!
-
-
-
-
-
+<br>
+---
+<br>
+<br>
 ### 📂 Meus Projetos
 
 Aqui estão alguns dos meus projetos mais recentes que compartilho no GitHub. Cada um possui uma breve descrição e um link para você visualizar o projeto:
@@ -26,12 +25,10 @@ Testes para vagas
 Cursos e eventos
 - **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
   Descrição: Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
-
-
-
-
-
-
+<br>
+---
+<br>
+<br>
 ### 🚀 Technologies & Tools
 
 I work with a variety of technologies and tools. Here are some of my favorites:
@@ -51,11 +48,10 @@ I work with a variety of technologies and tools. Here are some of my favorites:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
-
-
-
-
-
+<br>
+---
+<br>
+<br>
 ### 📊 GitHub Stats
 
 Check out my GitHub stats below to get a glimpse of my coding journey:
@@ -64,15 +60,15 @@ Check out my GitHub stats below to get a glimpse of my coding journey:
   <img src="https://github-readme-stats.vercel.app/api?username=lucasaevaldt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaevaldt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
-
-
-
+<br>
+---
+<br>
+<br>
 ### 📫 Let's Connect!
 
 - Feel free to reach out to me for collaborations, project discussions, or any other opportunities!
 - You can contact me via [email](mailto:lucas@example.com) (replace with your actual email) or find me on [LinkedIn](https://www.linkedin.com/in/your-profile) (replace with your actual LinkedIn profile).
-
+  <br>
 ---
 <!--
 **lucasaevaldt/lucasaevaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
