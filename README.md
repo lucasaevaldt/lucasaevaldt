@@ -23,6 +23,7 @@ Feel free to explore my repositories and let's connect!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
+<br>
 <h2>📂Meus Projetos</h2>
 <h4>Cada um possui uma breve descrição e um link para você visualizar o projeto:</h4>
 
@@ -39,7 +40,6 @@ Testes para vagas
 Cursos e eventos
 - **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
   Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
-<br>
 <br>
 <h2>📊 GitHub Stats</h2>
 
