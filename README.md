@@ -8,6 +8,7 @@ Feel free to explore my repositories and let's connect!
 <hr>
 <br>
 ### 📂 Meus Projetos
+
 Cada um possui uma breve descrição e um link para você visualizar o projeto:
 
 Pessoal
