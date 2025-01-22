@@ -17,8 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 <br>
-<h2>📂 Meus Projetos</h2>
-<h4>Clique no link para você visualizar o deploy do projeto:</h4>
+<h2>📂 Meus Projetos - Clique no link para você visualizar o deploy do projeto</h2>
 
 Pessoal
 - **[Sounds effects](https://lucasaevaldt.github.io/sounds-effects/)**  
