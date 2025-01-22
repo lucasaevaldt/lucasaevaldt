@@ -1,5 +1,4 @@
 ### Olá! 👋
-<br>
 <h2>🚀 Tecnologias & Ferramentas</h2>
 
 <div align="left">
