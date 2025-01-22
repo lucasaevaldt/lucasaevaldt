@@ -1,4 +1,8 @@
-<h2>Olá! 👋</h2>
+<h2>Olá! 👋- Umpouco mais sobre mim</h2>
+-👩‍💻Software Developer
+-📚Cursando Engenharia de Software
+-Loading...
+
 <h2>🚀 Tecnologias & Ferramentas</h2>
 
 <div align="left">
