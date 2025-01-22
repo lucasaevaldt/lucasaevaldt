@@ -43,7 +43,7 @@ Confira abaixo minhas estatísticas do GitHub para ter uma visão do meu percurs
 </div>
 <br>
 <br>
-<h2>📫 Vamos Conectar!</h2>
+<h2>📫 Contatos</h2>
 
 - Fique à vontade para entrar em contato comigo para colaborações, discussões de projetos ou outras oportunidades!
 - Você pode me contatar por [email](mailto:lucas@example.com) (substitua pelo seu email real) ou me encontrar no [LinkedIn](https://www.linkedin.com/in/your-profile) (substitua pelo seu perfil real no LinkedIn).
