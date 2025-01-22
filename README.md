@@ -46,7 +46,7 @@ Confira abaixo minhas estatísticas do GitHub para ter uma visão do meu percurs
 <h2>📫 Contatos</h2>
 
 - Fique à vontade para entrar em contato comigo para colaborações, discussões de projetos ou outras oportunidades!
-- Você pode me contatar por [email](mailto:lucas@example.com) (substitua pelo seu email real) ou me encontrar no [LinkedIn](https://www.linkedin.com/in/your-profile) (substitua pelo seu perfil real no LinkedIn).
+- Você pode me contatar por [email](lucasantonioevaldt@gmail.com) ou me encontrar no [LinkedIn](https://www.linkedin.com/in/lucasantonioevaldt/).
 
 <!--
 **lucasaevaldt/lucasaevaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
