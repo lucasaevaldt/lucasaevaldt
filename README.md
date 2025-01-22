@@ -21,7 +21,7 @@
 </div>
 <br>
 <h2>📂 Meus Projetos</h2>
-<h4>Cada um possui uma breve descrição e um link para você visualizar o projeto:</h4>
+<h4>Clique no link para você visualizar o deploy do projeto:</h4>
 
 Pessoal
 - **[Sounds effects](https://lucasaevaldt.github.io/sounds-effects/)**  
