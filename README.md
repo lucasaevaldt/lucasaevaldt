@@ -1,13 +1,5 @@
 ### Olá! 👋
 
-
-<h2>mais sobre mim</h2>
-
-- **👩‍💻Software Developer**  
-- **📚Cursando Engenharia de Software**  
-- **Loading...**
-
-
 <br>
 <h2>🚀 Tecnologias & Ferramentas</h2>
 
