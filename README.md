@@ -1,6 +1,7 @@
-## Olá! 👋
+### Olá! 👋
 
-<h2>Um pouco mais sobre mim</h2>
+
+<h2>mais sobre mim</h2>
 
 - **👩‍💻Software Developer**  
 - **📚Cursando Engenharia de Software**  
