@@ -5,7 +5,9 @@
 
 - **👩‍💻Software Developer**  
 - **📚Cursando Engenharia de Software**  
-- **Loading...**  
+- **Loading...**
+
+
 
 <h2>🚀 Tecnologias & Ferramentas</h2>
 
