@@ -38,15 +38,9 @@ Cursos e eventos
 
 
 <h2>📊 Most Used Languages</h2>
-## 🌟 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical&langs_count=6&hide_border=true&card_width=500)
 
-
-
-<h2>📊 Most Used Languages</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical)
 <br>
 <br>
 <h2>📫 Contatos</h2>
