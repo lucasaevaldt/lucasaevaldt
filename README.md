@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="40" alt="github logo" />
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEU4WOk3V+ksUOgfSegaRucxVOkoTugtUeikr/Pn6vz///8WROeeqvLV2vmDk+/y8/1UbOvu8P3e4vq4wPUALeY9XOkjS+iosvP4+f7ByPcRQufR1vkAOueUofHK0Phvgu12iO5ZcOvc4PqJmPCyu/WPnfFddOxGYuplDsAWAAABOElEQVR4AbWRRWLDQAwApUV71htGUzj5/wvLGLi1cx2x5I9QfSSMdd47a+4EhFiUAGURw3VaqsgDSUkGmSrpL+fycGSjimi0o3F2P23Kk+RF30bSMCWnH/2q8SzMdb5Iyc/DEqi++moEVus6A+PKFgBRP6R5nbNpJXVQuLfQvjAf0pabMXhVD+MkpoNtaT+kIxbQRbEN7LwumCxwHy099Rz2VuIBjkESVYvXT5nsHt6WYJjEMq8/pTjm5gSdceMjnM22dHPc10CDGGBfb9c7ONZ9txh8DWSK7BY9hH5TDxnO8C5/raKGXdjCaezCEg77tOP7caZbuXrFahr0AhzqVWfki9SU7essXtwE2rJJIj/tasu4FgknJsMv92k76OfOXV53+nKfmNDtASZdMHKDxoWz1i2iyj/zDLQeE7ps+rsUAAAAAElFTkSuQmCC" height="40" alt="github logo" />
 </div>
 <br>
 <h2>📂 Meus Projetos</h2>
