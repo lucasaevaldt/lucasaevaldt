@@ -38,7 +38,7 @@ Cursos e eventos
 
 
 <h2>📊 Most Used Languages</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=gruvbox&langs_count=6&hide_border=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=gruvbox&langs_count=6&hide_border=true&card_width=400)
 
 
 <h2>📊 Most Used Languages</h2>
