@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 <br>
-<h2 style="color: #334d4d>📂 Meus Projetos</h2>
+<h2>📂 Meus Projetos</h2>
 <h3>Clique no link para você visualizar o deploy do projeto</h3>
 
 Pessoal
