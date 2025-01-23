@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-<h2 style="color: #334d4d>🚀 Tecnologias & Ferramentas</h2>
+<h2>🚀 Tecnologias & Ferramentas</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
