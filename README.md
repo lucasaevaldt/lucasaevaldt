@@ -36,7 +36,11 @@ Cursos e eventos
   Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 <br>
 
+<h2>📊 Most Used Languages</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical&langs_count=6&hide_border=true&card_width=500)
 <br>
+
 <h2>📫 Contatos</h2>
 
 - Fique à vontade para entrar em contato comigo para colaborações, discussões de projetos ou outras oportunidades!
