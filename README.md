@@ -38,8 +38,6 @@ Cursos e eventos
 
 <h2>📊 Most Used Languages</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical&langs_count=6&hide_border=true&card_width=500)
-<br>
 
 <h2>📫 Contatos</h2>
 
