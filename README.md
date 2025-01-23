@@ -1,9 +1,5 @@
 ### Olá! 👋
 
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical)
 <h2>🚀 Tecnologias & Ferramentas</h2>
 
 <div align="left">
@@ -38,14 +34,11 @@ Cursos e eventos
 - **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
   Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 <br>
-<h2>📊 Estatísticas do GitHub</h2>
 
-Confira abaixo minhas estatísticas do GitHub para ter uma visão do meu percurso na programação:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasaevaldt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaevaldt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+<h2>📊 Most Used Languages</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical)
 <br>
 <br>
 <h2>📫 Contatos</h2>
