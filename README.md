@@ -1,4 +1,9 @@
 ### Olá! 👋
+
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical)
 <h2>🚀 Tecnologias & Ferramentas</h2>
 
 <div align="left">
