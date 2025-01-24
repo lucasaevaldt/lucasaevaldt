@@ -35,12 +35,6 @@ Cursos e eventos
 - **[Cloudboost](https://lucasaevaldt.github.io/cloudboost/)**  
   Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 <br>
-<!-- 
-<h2>📊 Most Used Languages</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical)
--->
-
 
 <h2>📫 Contatos</h2>
 
@@ -48,6 +42,10 @@ Cursos e eventos
 - Você pode me contatar por [email](lucasantonioevaldt@gmail.com) ou me encontrar no [LinkedIn](https://www.linkedin.com/in/lucasantonioevaldt/).
 
 <!--
+
+<h2>📊 Most Used Languages</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaevaldt&layout=compact&theme=radical)
 **lucasaevaldt/lucasaevaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
