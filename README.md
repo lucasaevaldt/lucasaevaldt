@@ -36,11 +36,6 @@ Cursos e eventos
   Projeto desenvolvido no curso Codeboost de Will Moreira, utilizando HTML, CSS e SASS. Focado em boas práticas de desenvolvimento web, com layouts responsivos e técnicas avançadas de estilização para garantir escalabilidade e performance.
 <br>
 
-<h2>📫 Contatos</h2>
-
-- Fique à vontade para entrar em contato comigo para colaborações, discussões de projetos ou outras oportunidades!
-- Você pode me contatar por [email](lucasantonioevaldt@gmail.com) ou me encontrar no [LinkedIn](https://www.linkedin.com/in/lucasantonioevaldt/).
-
 <!--
 
 <h2>📊 Most Used Languages</h2>
